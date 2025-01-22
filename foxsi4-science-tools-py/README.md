@@ -13,7 +13,8 @@ More information will be placed here with regards as to how this package is reco
 In order to work with some preliminary data, it would be instructive to set up a virtual environment (more information below) and install some packages needed. One way to do this is to:
 
 1. Create an environment with `conda create -n foxsi4-science-tools-env python`.
-2. After activating that environment, and in the directory with the `setup.py` file, the command `pip install -e .` should be possible to install the Python code into that environment.
+2. Activating that environment with `conda activate foxsi4-science-tools-env`.
+3. While in this directory with the `setup.py` file, the command `pip install -e .` will install the Python code into that environment.
 
 ## Namespace
 
