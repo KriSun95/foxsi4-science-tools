@@ -8,6 +8,13 @@ This will aid in the download of data from co-observing instruments, for example
 
 **Note:** FOXSI-1, -2, and -3 used a completely different system for completely different types of observations compared to FOXSI-4. Therefore, this repository is only appropriate for FOXSI-4.
 
+## Software and software help
+
+This repository will likely make use of different coding languages. Users are encouraged to look into the individual language packages for specific information and help pertaining to the relevant code base.
+
+- [foxsi4-science-tools-py](foxsi4-science-tools-py/)
+  - [Downloading data](foxsi4-science-tools-py/foxsi4_science_tools_py/download/)
+
 ## Observational Information and the YAML File
 
 <span>&#x1f6a7;</span> The information here is still under construction and may be edited in the future. <span>&#x1f6a7;</span>
